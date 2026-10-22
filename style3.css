@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 15px;
+}
+sup
+{
+    color: rgb(200, 156, 156);
+}
+div
+{
+    color: rgb(238, 238, 231);
+}
+b 
+{
+  word-spacing: 15px; 
+}
+
+.card
+{
+    background-color: #236167;
+    color: #ffffff;
+    margin-bottom: 20px;
+    padding-bottom: 2px;
+}
+.card-top {
+    background-color: #0E494E;
+    padding: 12px 60px;
+}
+
+.card-body {
+    line-height: 1.5;
+    padding: 0px 30px;
+}
